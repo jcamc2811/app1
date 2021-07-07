@@ -4,7 +4,8 @@
 4# git commit -m "descrição do commit"  = comitar alterações
 4# git commit -am "descrição do commit" = caso queira pular a etapa de add
 5# git branch = identificar em qual ramo se encontra o projeto
-
+6# git remote add origin (link do repositório) (para definir o repositório)
+7# git push -u origin (branch escolhida)(para subir ao repositório as alterações)
 
 git log (para pegar a versão anterior)
 git log --oneline (para pegar a versão anterior)
@@ -13,3 +14,6 @@ git diff (para verificar as diferença entre o ultimo commit e o atual)
 git reset --hard (versão desejada para a exclusão)
 
 git merge (nome do ramo a ser unido com o master) (lembrar de que o branch deve estar na master)
+
+git remote (verifica se existe um repositório remoto para o projeto)
+git remote -v (verifica as versões dos repositórios)
