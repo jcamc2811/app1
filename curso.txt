@@ -11,3 +11,5 @@ git log --oneline (para pegar a versão anterior)
 git checkout (numero de serie que deseja recuperar)
 git diff (para verificar as diferença entre o ultimo commit e o atual)
 git reset --hard (versão desejada para a exclusão)
+
+git merge (nome do ramo a ser unido com o master) (lembrar de que o branch deve estar na master)
