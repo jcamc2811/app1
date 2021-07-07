@@ -1,4 +1,6 @@
 1# git init   = iniciar o repositório
 2# git add *  = para adicionar os itens que farão parte do commit
 3# git status = verificar se há alterações
-4# git commit -m "descrição do commit" = comitar alterações
+4# git commit -m "descrição do commit"  = comitar alterações
+4# git commit -am "descrição do commit" = caso queira pular a etapa de add
+5# git branch = identificar em qual ramo se encontra o projeto
