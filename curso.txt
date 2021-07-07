@@ -9,7 +9,8 @@
 
 git log (para pegar a versão anterior)
 git log --oneline (para pegar a versão anterior)
-git checkout (numero de serie que deseja recuperar)
+git checkout (numero de serie que deseja recuperar) (ou para setar uma branch)
+git checkout -b (nome branch) (criar e setar uma nova branch)
 git diff (para verificar as diferença entre o ultimo commit e o atual)
 git reset --hard (versão desejada para a exclusão)
 
