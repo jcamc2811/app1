@@ -4,3 +4,10 @@
 4# git commit -m "descrição do commit"  = comitar alterações
 4# git commit -am "descrição do commit" = caso queira pular a etapa de add
 5# git branch = identificar em qual ramo se encontra o projeto
+
+
+git log (para pegar a versão anterior)
+git log --oneline (para pegar a versão anterior)
+git checkout (numero de serie que deseja recuperar)
+git diff (para verificar as diferença entre o ultimo commit e o atual)
+git reset --hard (versão desejada para a exclusão)
