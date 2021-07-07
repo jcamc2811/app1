@@ -1,0 +1,1 @@
+1# git init = iniciar o repositório
